@@ -2,5 +2,7 @@
 * Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/mnielsen)
 * Christopher Ola http://colah.github.io [:octocat:](https://github.com/colah/)
 * Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
+* Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds)
+* Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky)
 * Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 * Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/)
