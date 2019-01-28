@@ -1,3 +1,6 @@
 # Awesome blogs ![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[:octocat:](https://github.com/mnielsen) Chris Moos https://www.chrismoos.com <br>
-[:octocat:](https://github.com/florimondmanca) Florimond Manca https://blog.florimondmanca.com
+* Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/mnielsen)
+* Christopher Ola http://colah.github.io [:octocat:](https://github.com/colah/)
+* Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
+* Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
+* Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/)
