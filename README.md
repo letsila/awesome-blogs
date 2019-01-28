@@ -1,6 +1,7 @@
 # Awesome blogs ![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 * Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/mnielsen)
-* Christopher Ola http://colah.github.io [:octocat:](https://github.com/colah/)
+* Christopher Ola https://colah.github.io [:octocat:](https://github.com/colah/)
+* Dan Luu https://danluu.com [:octocat:](https://github.com/danluu)
 * Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 * Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
 * Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds)
