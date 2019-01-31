@@ -7,6 +7,7 @@
 * Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds)
 * Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz)
 * Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky)
+* JT Olio https://www.jtolio.com/ [:octocat:](https://github.com/jtolds)
 * Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns)
 * Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 * Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/)
