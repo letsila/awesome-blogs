@@ -11,3 +11,4 @@
 * Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns)
 * Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 * Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/)
+* Nikita Sobolev https://sobolevn.me [:octocat:](https://www.github.com/sobolevn)
