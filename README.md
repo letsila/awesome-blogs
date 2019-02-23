@@ -9,5 +9,6 @@
 * Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky)
 * JT Olio https://www.jtolio.com/ [:octocat:](https://github.com/jtolds)
 * Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns)
+* Liz Krane https://learningnerd.com/ [:octocat:](https://github.com/LearningNerd)
 * Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 * Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/)
