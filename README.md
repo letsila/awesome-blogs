@@ -4,6 +4,7 @@
 * Dan Luu https://danluu.com [:octocat:](https://github.com/danluu)
 * Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 * Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
+* James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994)
 * Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds)
 * Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz)
 * Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky)
