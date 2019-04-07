@@ -15,5 +15,6 @@
 * Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 * Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/) on JavaScript
 * Nikita Sobolev https://sobolevn.me [:octocat:](https://www.github.com/sobolevn)
+* Sebastian Ruder http://ruder.io/ [:octocat:](http://ruder.io) on Machine learning, deep learning and NLP
 * Simone Margaritelli https://www.evilsocket.net [:octocat:](https://github.com/evilsocket)
 * Tom Preston-Werner http://tom.preston-werner.com/ [:octocat:](http://github.com/mojombo)
