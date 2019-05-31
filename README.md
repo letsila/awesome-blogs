@@ -2,7 +2,7 @@
 * Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/chrismoos)
 * Christopher Ola https://colah.github.io [:octocat:](https://github.com/colah/) on Neural networks, machine learning, information theory etc
 * Dan Luu https://danluu.com [:octocat:](https://github.com/danluu)
-* Drew DeVault https://drewdevault.com [:octocat:](https://github.com/ddevault) on Open Source, C, Sway, Git, Sourcehut etc
+* Drew DeVault https://drewdevault.com [:octocat:](https://github.com/ddevault) on Open Source, C, Sway, Git, Sourcehut etc.
 * Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 * Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
 * James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994)
@@ -10,8 +10,9 @@
 * Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz) on Docker, Kubernetes etc.
 * Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky) on Software design, project management, etc.
 * JT Olio https://www.jtolio.com/ [:octocat:](https://github.com/jtolds) on Golang, distributed sytems etc.
-* Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns)
+* Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns) on software engineering etc.
 * Liz Krane https://learningnerd.com/ [:octocat:](https://github.com/LearningNerd)
+* Max Woolf https://minimaxir.com/ [:octocat:](https://github.com/minimaxir) on data science
 * Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 * Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://www.github.com/nzakas/) on JavaScript
 * Nikita Sobolev https://sobolevn.me [:octocat:](https://www.github.com/sobolevn)
