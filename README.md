@@ -9,6 +9,7 @@
 - Fabrice Bellard https://bellard.org on compilers, ffmpeg, qemu, quickjs, computer science etc. 🔥🔥🔥🔥🔥
 - Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 - Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
+- Fred Hebert http://ferd.ca [:octocat:](https://github.com/ferd) on Erlang
 - James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994)
 - Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds) on JavaScript
 - Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz) on Docker, Kubernetes etc.
