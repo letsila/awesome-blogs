@@ -2,14 +2,18 @@
 
 - Adam Langley https://imperialviolet.org [:octocat:](https://github.com/agl) on Cryptography 🔥🔥🔥🔥🔥
 - Bartosz Ciechanowski https://ciechanow.ski [:octocat:](https://github.com/Ciechan) on Gears, colors, etc.
+- Brent Yorgey https://byorgey.wordpress.com on type systems, category theory, haskell etc.🔥🔥🔥🔥🔥
 - Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/chrismoos)
 - Christopher Ola https://colah.github.io [:octocat:](https://github.com/colah/) on Neural networks, machine learning, information theory etc
+- Chris Penner https://chrispenner.ca [:octocat:](https://github.com/chrispenner/) on FP, haskell etc.
+- Chris Richardson http://chrisrichardson.net/ [:octocat:]() on Microservices etc.
 - Dan Luu https://danluu.com [:octocat:](https://github.com/danluu)
 - Drew DeVault https://drewdevault.com [:octocat:](https://github.com/ddevault) on Open Source, C, Sway, Git, Sourcehut etc.
 - Fabrice Bellard https://bellard.org on compilers, ffmpeg, qemu, quickjs, computer science etc. 🔥🔥🔥🔥🔥
 - Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 - Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
 - Fred Hebert http://ferd.ca [:octocat:](https://github.com/ferd) on Erlang
+- Ivan A. Sergeev https://sergeev.io [:octocat:](https://github.com/vsergeev) on low level programming, network, assembly x86, etc.
 - James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994)
 - Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds) on JavaScript
 - Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz) on Docker, Kubernetes etc.
