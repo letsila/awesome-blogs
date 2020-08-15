@@ -9,6 +9,7 @@
 - Chris Richardson http://chrisrichardson.net/ [:octocat:]() on Microservices etc.
 - Dan Luu https://danluu.com [:octocat:](https://github.com/danluu)
 - Drew DeVault https://drewdevault.com [:octocat:](https://github.com/ddevault) on Open Source, C, Sway, Git, Sourcehut etc.
+- Eli Bendersky https://eli.thegreenplace.net [:octocat:](https://github.com/eliben) on Programming, Math, Compiler, Codegen, etc. 🔥🔥🔥🔥🔥
 - Fabrice Bellard https://bellard.org on compilers, ffmpeg, qemu, quickjs, computer science etc. 🔥🔥🔥🔥🔥
 - Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 - Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
@@ -16,6 +17,7 @@
 - Ivan A. Sergeev https://sergeev.io [:octocat:](https://github.com/vsergeev) on low level programming, network, assembly x86, etc.
 - James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994)
 - Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds) on JavaScript
+- Jaana Doga https://rakyll.org [:octocat:](https://github.com/rakyll) on Go
 - Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz) on Docker, Kubernetes etc.
 - Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky) on Software design, project management, etc.
 - JT Olio https://www.jtolio.com/ [:octocat:](https://github.com/jtolds) on Golang, distributed sytems etc.
