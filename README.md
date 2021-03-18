@@ -24,6 +24,7 @@
 - Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns) on software engineering etc.
 - Liz Krane https://learningnerd.com/ [:octocat:](https://github.com/LearningNerd)
 - Max Woolf https://minimaxir.com/ [:octocat:](https://github.com/minimaxir) on data science
+- Michael Fogus http://blog.fogus.me [:octocat:](https://github.com/fogus) on yearly interested stuff, lisp etc. 
 - Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
 - Nicholas C. Zakas https://humanwhocodes.com [:octocat:](https://github.com/nzakas/) on JavaScript
 - Nikita Sobolev https://sobolevn.me [:octocat:](https://github.com/sobolevn)
