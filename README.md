@@ -1,7 +1,7 @@
 # Awesome blogs ![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 - Adam Langley https://imperialviolet.org [:octocat:](https://github.com/agl) on Cryptography etc.🔥🔥🔥🔥🔥
-- Bartosz Ciechanowski https://ciechanow.ski [:octocat:](https://github.com/Ciechan) on Gears, colors, great visualizations, etc 
+- Bartosz Ciechanowski https://ciechanow.ski [:octocat:](https://github.com/Ciechan) on Gears, colors, great visualizations, etc.
 - Brandur https://www.brandur.org/articles [:octocat:] (https://github.com/brandur) on web APIS, Postgres, Rust, software safety, etc.
 - Brent Yorgey https://byorgey.wordpress.com on type systems, category theory, haskell etc.🔥🔥🔥🔥🔥
 - Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/chrismoos)
