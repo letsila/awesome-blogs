@@ -1,7 +1,8 @@
 # Awesome blogs ![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-- Adam Langley https://imperialviolet.org [:octocat:](https://github.com/agl) on Cryptography 🔥🔥🔥🔥🔥
+- Adam Langley https://imperialviolet.org [:octocat:](https://github.com/agl) on Cryptography etc.🔥🔥🔥🔥🔥
 - Bartosz Ciechanowski https://ciechanow.ski [:octocat:](https://github.com/Ciechan) on Gears, colors, great visualizations, etc 
+- Brandur https://www.brandur.org/articles [:octocat:] (https://github.com/brandur) on web APIS, Postgres, Rust, software safety, etc.
 - Brent Yorgey https://byorgey.wordpress.com on type systems, category theory, haskell etc.🔥🔥🔥🔥🔥
 - Chris Moos https://www.chrismoos.com [:octocat:](https://github.com/chrismoos)
 - Christopher Ola https://colah.github.io [:octocat:](https://github.com/colah/) on Neural networks, machine learning, information theory etc
@@ -13,11 +14,11 @@
 - Fabrice Bellard https://bellard.org on compilers, ffmpeg, qemu, quickjs, computer science etc. 🔥🔥🔥🔥🔥
 - Florimond Manca https://blog.florimondmanca.com [:octocat:](https://github.com/florimondmanca)
 - Filippo Valsorda https://blog.filippo.io [:octocat:](https://github.com/FiloSottile)
-- Fred Hebert http://ferd.ca [:octocat:](https://github.com/ferd) on Erlang
+- Fred Hebert http://ferd.ca [:octocat:](https://github.com/ferd) on Erlang etc.
 - Ivan A. Sergeev https://sergeev.io [:octocat:](https://github.com/vsergeev) on low level programming, network, assembly x86, etc.
-- James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994)
-- Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds) on JavaScript
-- Jaana Doga https://rakyll.org [:octocat:](https://github.com/rakyll) on Go
+- James Le https://jameskle.com/writes [:octocat:](https://github.com/khanhnamle1994) etc.
+- Jamie Builds https://jamie.build [:octocat:](https://github.com/jamiebuilds) on JavaScript etc.
+- Jaana Doga https://rakyll.org [:octocat:](https://github.com/rakyll) on Go etc.
 - Jessie Frazelle https://blog.jessfraz.com [:octocat:](https://github.com/jessfraz) on Docker, Kubernetes etc.
 - Joel Spolsky https://www.joelonsoftware.com [:octocat:](https://github.com/jspolsky) on Software design, project management, etc.
 - JT Olio https://www.jtolio.com/ [:octocat:](https://github.com/jtolds) on Golang, distributed sytems etc.
@@ -32,7 +33,7 @@
 - Nick Sweeting https://docs.sweeting.me/s/blog [:octocat:](https://github.com/pirate) on Database, Redux, Animation programming, etc.
 - Patrick McKenzie https://kalzumeus.com on career advices, businesses, money, software development etc.🔥🔥🔥🔥🔥
 - Sarah Drasner https://sarah.dev/writing on front-end dev etc.
-- Sebastian Ruder http://ruder.io/ [:octocat:](http://ruder.io) on Machine learning, deep learning and NLP
+- Sebastian Ruder http://ruder.io/ [:octocat:](http://ruder.io) on Machine learning, deep learning and NLP etc.
 - Simone Margaritelli https://www.evilsocket.net [:octocat:](https://github.com/evilsocket)
 - Thorsten Ball https://thorstenball.com [:octocat:](https://github.com/mrnugget) on compilers, Go, programming languages, etc. 🔥🔥🔥🔥🔥
 - Tom Preston-Werner http://tom.preston-werner.com/ [:octocat:](http://github.com/mojombo
