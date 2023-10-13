@@ -36,5 +36,5 @@
 - Sebastian Ruder http://ruder.io/ [:octocat:](http://ruder.io) on Machine learning, deep learning and NLP etc.
 - Simone Margaritelli https://www.evilsocket.net [:octocat:](https://github.com/evilsocket)
 - Slava Egorov https://mrale.ph/blog/ [:octocat:](https://mrale.ph/blog/) on compilers and languages performance etc.
-- Thorsten Ball https://thorstenball.com [:octocat:](https://github.com/mrnugget) on compilers, Go, programming languages, etc. 🔥🔥🔥🔥🔥
+- Thorsten Ball https://thorstenball.com [:octocat:](https://github.com/mraleph) on compilers, Go, programming languages, etc. 🔥🔥🔥🔥🔥
 - Tom Preston-Werner http://tom.preston-werner.com/ [:octocat:](http://github.com/mojombo
