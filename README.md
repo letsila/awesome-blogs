@@ -24,6 +24,7 @@
 - JT Olio https://www.jtolio.com/ [:octocat:](https://github.com/jtolds) on Golang, distributed sytems etc.
 - Julia Evans https://jvns.ca [:octocat:](https://github.com/jvns) on software engineering etc.
 - Liz Krane https://learningnerd.com/ [:octocat:](https://github.com/LearningNerd)
+- Martin Tournoij https://www.arp242.net/ [:octocat:](https://github.com/arp242) on Golang, OSS, etc.
 - Max Woolf https://minimaxir.com/ [:octocat:](https://github.com/minimaxir) on data science
 - Michael Fogus http://blog.fogus.me [:octocat:](https://github.com/fogus) on yearly interested stuff, lisp etc. 
 - Michael Nielsen http://michaelnielsen.org/ [:octocat:](https://github.com/mnielsen)
